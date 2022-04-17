@@ -4,6 +4,7 @@
 
 This project is no longer being actively maintained. 
 To fork or run a [Standard Relayer API](https://0x.org/docs/api#sra) instance, you can use the [0x API](https://github.com/0xProject/0x-api) instead.
+We are using this repository as a practice workspace for our developers who are young, self teaching, and figuring it out as we go, do not use with intent of joining the main network without advising a legal professional first. We are freelance developers.
 
 |                              ERC-20                              |                              ERC-721                              |
 | :--------------------------------------------------------------: | :---------------------------------------------------------------: |
